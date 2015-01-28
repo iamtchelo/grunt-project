@@ -1,0 +1,23 @@
+{
+  "name": "project-name",
+  "title": "project-title",
+  "version": "project-version",
+  "main": "Gruntfile.js",
+  "homepage": "http://project.com",
+  "description": "project-description",
+  "author": {
+    "name": "author-name",
+    "url": "http://author.com",
+    "email": "author@email.com"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-css": "~0.5.4",
+    "matchdep": "~0.1.2"
+  }
+}
